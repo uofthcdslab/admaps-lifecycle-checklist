@@ -2,6 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18077990.svg)](https://doi.org/10.5281/zenodo.18077990)
 
+**Citation:**  
+Devansh Saxena, Karla Badillo-Urquiola, Pamela J. Wisniewski, and Shion Guha (2025). ADMAPS Lifecycle Checklist (v1). Zenodo. https://doi.org/10.5281/zenodo.18077990
+
 # ADMAPS Lifecycle Checklist
 
 This repository contains two complementary artifacts derived from the ADMAPS framework for high-stakes public-sector algorithmic decision-making.
