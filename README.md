@@ -31,3 +31,5 @@ Devansh Saxena, Karla Badillo-Urquiola, Pamela J. Wisniewski, and Shion Guha. 20
 
 If citing the checklist artifact directly, also cite the Zenodo record associated with this repository.
 
+Zenodo DOI: https://doi.org/10.5281/zenodo.18077990
+
