@@ -6,8 +6,6 @@
 
 This repository contains two complementary artifacts derived from the ADMAPS framework for high-stakes public-sector algorithmic decision-making.
 
-https://doi.org/10.5281/zenodo.18077990
-
 ## Contents
 
 * **ADMAPS\_Lifecycle\_Checklist\_v1.pdf**  
