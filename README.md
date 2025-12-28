@@ -1,4 +1,6 @@
-Status: Stable v1.0. Intended for operational use. Future revisions will focus on clarifications and examples, not scope expansion.
+**Status:** Stable v1.0. Intended for operational use. Future revisions will focus on clarifications and examples, not scope expansion.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18077990.svg)](https://doi.org/10.5281/zenodo.18077990)
 
 # ADMAPS Lifecycle Checklist
 
