@@ -1,3 +1,5 @@
+Status: Stable v1.0. Intended for operational use. Future revisions will focus on clarifications and examples, not scope expansion.
+
 # ADMAPS Lifecycle Checklist
 
 This repository contains two complementary artifacts derived from the ADMAPS framework for high-stakes public-sector algorithmic decision-making.
